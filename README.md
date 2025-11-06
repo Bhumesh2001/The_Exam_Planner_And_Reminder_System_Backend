@@ -69,7 +69,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/exam-planner-backend.git
+git clone [https://github.com/yourusername/exam-planner-backend.git](https://github.com/Bhumesh2001/The_Exam_Planner_And_Reminder_System_Backend)
 cd exam-planner-backend
 ```
 
